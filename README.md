@@ -1,1 +1,1 @@
-# ROT13 deocder
+# ROT13 decoder
